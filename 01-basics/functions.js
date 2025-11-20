@@ -1,5 +1,5 @@
 function main() {
-    //Here code to exe
+    //Here code to execute
 }
 
 // theres many way of functions:
