@@ -10,7 +10,7 @@ function main() {
 // Array of technical/progressive metal bands
 const metalBands = [
     { name: "Gorguts", genre: "Technical Death Metal", country: "Canada" },
-    { name: "Ulcerate", genre: "Technical Death Metal", country: "New Zealand" },
+    { name: "Ulcerate", genre: "Avant-garde/Technical Death Metal", country: "New Zealand" },
     { name: "Deathspell Omega", genre: "Avant-garde Black Metal", country: "France" },
     { name: "Ihsahn", genre: "Progressive Metal", country: "Norway" },
     { name: "Meshuggah", genre: "Djent", country: "Sweden" }
