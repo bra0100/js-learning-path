@@ -8,11 +8,11 @@ let userName = "Bryant";
 const MAX_SCORE = 100;
 
 // 2. Arrays y objetos
-const metalBands = ["Metallica", "Iron Maiden", "Slayer", "Megadeth"];
+const metalBands = ["Emperor", "Gorguts", "Ulcerate", "Imperial Triumphant"];
 const bandInfo = {
-    name: "Metallica",
-    genre: "Thrash Metal",
-    formed: 1981,
+    name: "Ulcerate",
+    genre: "Avant-garde/Progressive Death Metal",
+    formed: 2000,
     active: true
 };
 
