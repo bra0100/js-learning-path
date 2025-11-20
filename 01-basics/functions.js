@@ -5,7 +5,7 @@ function main() {
 // theres many way of functions:
 //code
 
-// 🎸 Metal Band Examples for Learning Functions
+// 🎸 Metal Band Examples for Learning Function
 
 // Array of technical/progressive metal bands
 const metalBands = [
