@@ -3,6 +3,7 @@ function main() {
 }
 
 // theres many way of functions:
+//code
 
 // 🎸 Metal Band Examples for Learning Functions
 
